@@ -1,0 +1,9 @@
+exo-8
+A ← "423"
+B ← "12"
+C ← A + B       (C= 42312 . les valeurs de A et de B sont une chaine de caracteres)
+
+exo-9
+A ← "423"
+B ← "12"
+C ← A & B       (C est egalement une chaine de caractere. On concaténe deux chaines de caractere)
